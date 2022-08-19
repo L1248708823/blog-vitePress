@@ -9,7 +9,7 @@ module.exports = {
 
    // 站点项目的输出位置
    outDir: '../dist',
-  // base: '/blog/',
+  base: '/blog/',
   // 语言
   lang: 'zh-CN',
   // 副标题 生成格式 “非著名切图仔 | 社畜自救指北💊“”
