@@ -1,7 +1,7 @@
 <template>
   <div class="flex ">
       <img src="/img/bg2.png" alt=""/>
-      <p data-text='笑一个吧  ！！功成名就不是目的 让自己快乐快乐这才叫做意义~'>笑一个吧 功成名就不是目的,让自己快乐快乐这才叫做意义~</p>
+      <p data-text='笑一个吧  ！！！功成名就不是目的 让自己快乐快乐这才叫做意义~'>笑一个吧 功成名就不是目的,让自己快乐快乐这才叫做意义~</p>
   </div>
 </template>
 <script setup lang="ts">
