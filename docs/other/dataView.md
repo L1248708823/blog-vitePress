@@ -2,7 +2,7 @@
  * @Author: lpj 1248708823@qq.com
  * @Date: 2022-09-25 20:39:17
  * @LastEditors: lpj 1248708823@qq.com
- * @LastEditTime: 2022-09-25 20:40:46
+ * @LastEditTime: 2022-09-25 20:50:53
  * @FilePath: \vite\docs\other\dataView.md
  * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
 -->
@@ -58,7 +58,7 @@ ps:具体实践请直接拉到最下面
 
 主要思路是动态修改根节点的fontSize值，然后通过px转rem的函数完成自适应，
 
-```
+```js
 // 在数据大屏的页面，初始化调用这个方法
 
 created() {
