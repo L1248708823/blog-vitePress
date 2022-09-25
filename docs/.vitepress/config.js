@@ -44,6 +44,7 @@ module.exports = {
       { text: '👻404', link:"/project/404"},
       { text: '前端工程化', link:"/project/cicd/git-flow"},
       { text: '设计模式', link: "/designMode/about"},
+      { text: '杂七杂八', link: "/other/dataView"},
       { 
           text: '林暗草惊风', 
           items: [
@@ -130,6 +131,16 @@ module.exports = {
             // { text: "2021-12年终总结", link: "/life/2021-12" },
           ]
         }
+      ],
+      
+      "/other/": [
+        {
+          text: '概览',
+          collapsible: true,
+          items: [
+            { text: "数据大屏开发总结", link: "/other/dataView" },
+          ]
+        },
       ],
     }
 
